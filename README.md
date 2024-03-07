@@ -1,7 +1,10 @@
 # Casper Odra tutorials
 
 ## Counter
-The "Hello, World!" of blockchain networks. Find it [here](./1_counter/README.md).
+The "Hello, World!" of blockchain networks. Find it [here](./counter.md).
+
+## Election
+Build a simple blockchain-enabled voting platform. Find it [here](./election.md).
 
 # Useful Links
 
